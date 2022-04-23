@@ -5,5 +5,3 @@ Team members:
 -
 -
 #TODO: Add your names, commit and push your changes.
-
-//Linds Comment//
