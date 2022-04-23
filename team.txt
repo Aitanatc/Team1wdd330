@@ -1,7 +1,7 @@
 https://trello.com/b/1sc1vLxo/team-project
 Team members:
 -Aitana Toscano
--
+- james Oku
 -
 -
 #TODO: Add your names, commit and push your changes.
