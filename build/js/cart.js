@@ -20,7 +20,9 @@ function renderCartItem(a) {
   <p class="cart-card__color">${a.Colors[0].ColorName}</p>
   <p class="cart-card__quantity">qty: 1</p>
   <p class="cart-card__price">$${a.FinalPrice}</p>
+
 </li>`;
   return console.log(r), r;
 }
 getCartContents();
+
